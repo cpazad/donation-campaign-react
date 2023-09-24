@@ -1,8 +1,11 @@
-# React + Vite
+# React Donation Campaign Project featrures
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Main Features
+    1. We have used react Router in this project
+    2. We have used React chart
+    3. We have used useContext instead of props drilling
 
-Currently, two official plugins are available:
+#### Other Mentions
+    1. One 
+    2. Two
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
