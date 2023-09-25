@@ -7,6 +7,8 @@ import ErrorPage from "./Pages/ErrorPage/ErrorPage.jsx";
 import Home from "./Pages/Home/Home.jsx";
 import Donation from "./Pages/Donation/Donation.jsx";
 import Statistics from "./Pages/Statistics/Statistics.jsx";
+import Donates from "./Components/Donate/Donates.jsx";
+import DonationDetails from "./Pages/DonationDetails/DonationDetails.jsx";
 
 const router = createBrowserRouter([
   {
@@ -15,17 +17,27 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
-        path: "/home",
-        element: <Home></Home>,
+        path: "/",
+        element: <Home></Home>,  
       },
       {
-        path: "/donation",
+        path: "/donations",
         element: <Donation></Donation>,
+      },
+      {
+        path:"/donation/:id",
+        element: <DonationDetails></DonationDetails>,
+        loader: ()=> fetch('donation.json')
       },
       {
         path: "/statistics",
         element: <Statistics></Statistics>,
       },
+      {
+        path:"/donates",
+        element:<Donates></Donates>,
+        
+      }
     ],
   },
 ]);

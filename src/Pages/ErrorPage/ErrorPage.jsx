@@ -8,7 +8,7 @@ const ErrorPage = () => {
           <h1 className="text-7xl font-extrabold text-red-500">404</h1>
           <h1 className="text-3xl font-bold my-5">Sorry there</h1>
           
-          <Link to="/home">
+          <Link to="/">
             <button className="btn btn-success">Get back to Home </button>
           </Link>
         </div>

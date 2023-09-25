@@ -2,9 +2,9 @@ import { Link, NavLink } from "react-router-dom";
 
 const Header = () => {
   const links = <>
-    <li><NavLink to="/home"> Home </NavLink></li>
-    <li><NavLink to="/donation"> Donation </NavLink></li>
-    <li><NavLink to="/statistics"> Statistics </NavLink></li>
+    <li className="my-2"><NavLink to="/"> Home </NavLink></li>
+    <li className="my-2"><NavLink to="/donations"> Donation </NavLink></li>
+    <li className="my-2"><NavLink to="/statistics"> Statistics </NavLink></li>
 
   
   </>
@@ -35,11 +35,11 @@ const Header = () => {
             {links}
           </ul>
         </div>
-        <Link to="/home"><img className="w-32 sm:w-44" src="public\Logo.png" alt="Company logo" /></Link>
+        <Link to="/home"><img className="w-32 sm:w-44" src="/Logo.png" alt="Company logo" /></Link>
         {/* <a className="btn btn-ghost normal-case text-xl"> <img className="w-32 sm:w-44" src="public\Logo.png" alt="Company logo" /> </a> */}
       </div>
       <div className="navbar-end hidden lg:flex">
-        <ul className="menu menu-horizontal px-1">
+        <ul className="menu menu-horizontal gap-2 px-1">
           {links}
         </ul>
       </div>

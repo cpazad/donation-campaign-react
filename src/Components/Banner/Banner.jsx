@@ -5,10 +5,10 @@ const Banner = () => {
         className="hero min-h-screen z-[-20]"
         style={{
           backgroundImage:
-            "url(https://ogdenlv.com/wp-content/uploads/2018/12/DK_OGDEN_GivingBack_Local_Las_Vegas_Charities_1200x530_feature.png)",
+            `url("Rectangle 4281.png")`,
         }}
       >
-        <div className="hero-overlay bg-opacity-90 bg-white"></div>
+        <div className="hero-overlay bg-opacity-90 bg-white backdrop-brightness-7"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md">
             <h1 className="mb-5 text-5xl font-bold text-black">
@@ -49,3 +49,4 @@ const Banner = () => {
 
 export default Banner;
 // https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg
+//https://ogdenlv.com/wp-content/uploads/2018/12/DK_OGDEN_GivingBack_Local_Las_Vegas_Charities_1200x530_feature.png

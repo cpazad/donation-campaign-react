@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/47K3cbD/Health.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#FF5733",
+    "card_bg": "#EDEDED",
+    "text_button_bg": "#009688",
+    "description": "We are reaching out to you today with a heartfelt request to support the health of children. Every child deserves the chance to grow up healthy and happy, yet countless children face preventable health challenges due to limited access to quality healthcare and nutrition. At [Your Organization's Name], we are committed to changing this reality. Your donation, no matter the size, can provide life-saving vaccines, medical treatments, or nutritious meals to these vulnerable children. Together, we can give them a fighting chance for a brighter future. Please donate today at [Donation Link] and join us in creating a world where every child enjoys the gift of good health.",
+    "price": 299
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/VTyfx3V/cloth.jpg",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#FFC300",
+    "card_bg": "#F5A623",
+    "text_button_bg": "#333",
+    "description": "Donating to provide clothing for children is an act of compassion that can make an immediate and lasting impact. Many children around the world lack access to proper clothing, leaving them vulnerable to harsh weather conditions and societal challenges. At [Your Organization's Name], we are dedicated to ensuring that every child has the warmth and dignity of appropriate clothing. Your contribution, regardless of its size, can help us provide coats, shoes, and clothing essentials to those in need. With your support, we can protect children from the cold, boost their self-esteem, and enhance their overall well-being. Join us in this essential mission to dress children in need and empower them to face the world with confidence. Please donate today at [Donation Link] and be a part of our effort to make sure no child goes without the basic necessity of clothing. Together, we can wrap these young souls in comfort and care, giving them the opportunity to thrive and grow. Your generosity truly makes a difference, and we thank you for your support.",
+    "price": 250
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/WxbY3rL/education.jpg",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "#66BB6A",
+    "card_bg": "#FFF",
+    "text_button_bg": "#FF5722",
+    "description": "Supporting children's education is an investment in a brighter future for all. At [Your Organization's Name], we are committed to breaking down barriers to quality education. Your donation, regardless of size, can make a profound impact. It can provide books, school supplies, scholarships, and access to quality teachers, ensuring that children, regardless of their circumstances, have the chance to learn, grow, and succeed. Together, we can create a world where every child has the opportunity to receive a quality education. Your generosity will shape the future of these young minds and empower them to reach their full potential. Join us in our mission to ensure that no child is left behind in the pursuit of knowledge and a better life. Please donate today at [Donation Link] and be a part of this transformative journey toward a more educated and equitable world. Together, we can help children unlock their potential and achieve their dreams. Thank you for your support.",
+    "price": 250
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/G9BgzGt/Food.jpg",
+    "title": "Better food for Everyone",
+    "category": "Food",
+    "category_bg": "#2196F3",
+    "card_bg": "#E0E0E0",
+    "text_button_bg": "#FFC107",
+    "description": "Donating to provide food for children is a powerful way to combat hunger and ensure a brighter future for our youngest generation. Many children worldwide suffer from food insecurity, which not only affects their physical health but also hinders their ability to learn and grow. At [Your Organization's Name], we are committed to nourishing these young minds and bodies. Your contribution, no matter the amount, can help us provide nutritious meals, snacks, and essential food supplies to children in need. With your support, we can alleviate hunger, improve their well-being, and enable them to focus on their education and dreams. Join us in our mission to ensure that no child goes to bed hungry. Please donate today at [Donation Link] and be a part of our effort to provide food security for vulnerable children. Together, we can make sure that every child has access to the nourishment they need to thrive. Your generosity helps us bring smiles, health, and hope to these young lives, and we sincerely thank you for your support.",
+    "price": 250
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/WxbY3rL/education.jpg",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "#FF5722",
+    "card_bg": "#F5F5F5",
+    "text_button_bg": "#4CAF50",
+    "description": "Supporting children's education is an investment in a brighter future for all. At [Your Organization's Name], we are committed to breaking down barriers to quality education. Your donation, regardless of size, can make a profound impact. It can provide books, school supplies, scholarships, and access to quality teachers, ensuring that children, regardless of their circumstances, have the chance to learn, grow, and succeed. Together, we can create a world where every child has the opportunity to receive a quality education. Your generosity will shape the future of these young minds and empower them to reach their full potential. Join us in our mission to ensure that no child is left behind in the pursuit of knowledge and a better life. Please donate today at [Donation Link] and be a part of this transformative journey toward a more educated and equitable world. Together, we can help children unlock their potential and achieve their dreams. Thank you for your support.",
+    "price": 180
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/G9BgzGt/Food.jpg",
+    "title": "Better food for Everyone",
+    "category": "Food",
+    "category_bg": "#FF9800",
+    "card_bg": "#E0E0E0",
+    "text_button_bg": "#2196F3",
+    "description": "Donating to provide food for children is a powerful way to combat hunger and ensure a brighter future for our youngest generation. Many children worldwide suffer from food insecurity, which not only affects their physical health but also hinders their ability to learn and grow. At [Your Organization's Name], we are committed to nourishing these young minds and bodies. Your contribution, no matter the amount, can help us provide nutritious meals, snacks, and essential food supplies to children in need. With your support, we can alleviate hunger, improve their well-being, and enable them to focus on their education and dreams. Join us in our mission to ensure that no child goes to bed hungry. Please donate today at [Donation Link] and be a part of our effort to provide food security for vulnerable children. Together, we can make sure that every child has access to the nourishment they need to thrive. Your generosity helps us bring smiles, health, and hope to these young lives, and we sincerely thank you for your support.",
+    "price": 200
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/VTyfx3V/cloth.jpg",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#FF4081",
+    "card_bg": "#FFF",
+    "text_button_bg": "#E91E63",
+    "description": "Donating to provide clothing for children is an act of compassion that can make an immediate and lasting impact. Many children around the world lack access to proper clothing, leaving them vulnerable to harsh weather conditions and societal challenges. At [Your Organization's Name], we are dedicated to ensuring that every child has the warmth and dignity of appropriate clothing. Your contribution, regardless of its size, can help us provide coats, shoes, and clothing essentials to those in need. With your support, we can protect children from the cold, boost their self-esteem, and enhance their overall well-being. Join us in this essential mission to dress children in need and empower them to face the world with confidence. Please donate today at [Donation Link] and be a part of our effort to make sure no child goes without the basic necessity of clothing. Together, we can wrap these young souls in comfort and care, giving them the opportunity to thrive and grow. Your generosity truly makes a difference, and we thank you for your support.",
+    "price": 150
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/G9BgzGt/Food.jpg",
+    "title": "Better food for Everyone",
+    "category": "Food",
+    "category_bg": "#795548",
+    "card_bg": "#D7CCC8",
+    "text_button_bg": "#607D8B",
+    "description": "Donating to provide food for children is a powerful way to combat hunger and ensure a brighter future for our youngest generation. Many children worldwide suffer from food insecurity, which not only affects their physical health but also hinders their ability to learn and grow. At [Your Organization's Name], we are committed to nourishing these young minds and bodies. Your contribution, no matter the amount, can help us provide nutritious meals, snacks, and essential food supplies to children in need. With your support, we can alleviate hunger, improve their well-being, and enable them to focus on their education and dreams. Join us in our mission to ensure that no child goes to bed hungry. Please donate today at [Donation Link] and be a part of our effort to provide food security for vulnerable children. Together, we can make sure that every child has access to the nourishment they need to thrive. Your generosity helps us bring smiles, health, and hope to these young lives, and we sincerely thank you for your support.",
+    "price": 250
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/WxbY3rL/education.jpg",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "#FFC107",
+    "card_bg": "#FFF",
+    "text_button_bg": "#FF4081",
+    "description": "Supporting children's education is an investment in a brighter future for all. At [Your Organization's Name], we are committed to breaking down barriers to quality education. Your donation, regardless of size, can make a profound impact. It can provide books, school supplies, scholarships, and access to quality teachers, ensuring that children, regardless of their circumstances, have the chance to learn, grow, and succeed. Together, we can create a world where every child has the opportunity to receive a quality education. Your generosity will shape the future of these young minds and empower them to reach their full potential. Join us in our mission to ensure that no child is left behind in the pursuit of knowledge and a better life. Please donate today at [Donation Link] and be a part of this transformative journey toward a more educated and equitable world. Together, we can help children unlock their potential and achieve their dreams. Thank you for your support.",
+    "price": 150
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/47K3cbD/Health.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#4CAF50",
+    "card_bg": "#E0E0E0",
+    "text_button_bg": "#fbbf24",
+    "description": "We are reaching out to you today with a heartfelt request to support the health of children. Every child deserves the chance to grow up healthy and happy, yet countless children face preventable health challenges due to limited access to quality healthcare and nutrition. At [Your Organization's Name], we are committed to changing this reality. Your donation, no matter the size, can provide life-saving vaccines, medical treatments, or nutritious meals to these vulnerable children. Together, we can give them a fighting chance for a brighter future. Please donate today at [Donation Link] and join us in creating a world where every child enjoys the gift of good health.",
+    "price": 150
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/WxbY3rL/education.jpg",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "#2196F3",
+    "card_bg": "#F5F5F5",
+    "text_button_bg": "#FF5722",
+    "description": "Supporting children's education is an investment in a brighter future for all. At [Your Organization's Name], we are committed to breaking down barriers to quality education. Your donation, regardless of size, can make a profound impact. It can provide books, school supplies, scholarships, and access to quality teachers, ensuring that children, regardless of their circumstances, have the chance to learn, grow, and succeed. Together, we can create a world where every child has the opportunity to receive a quality education. Your generosity will shape the future of these young minds and empower them to reach their full potential. Join us in our mission to ensure that no child is left behind in the pursuit of knowledge and a better life. Please donate today at [Donation Link] and be a part of this transformative journey toward a more educated and equitable world. Together, we can help children unlock their potential and achieve their dreams. Thank you for your support.",
+    "price": 69
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/VTyfx3V/cloth.jpg",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#4CAF50",
+    "card_bg": "#E0E0E0",
+    "text_button_bg": "#2196F3",
+    "description": "Donating to provide clothing for children is an act of compassion that can make an immediate and lasting impact. Many children around the world lack access to proper clothing, leaving them vulnerable to harsh weather conditions and societal challenges. At [Your Organization's Name], we are dedicated to ensuring that every child has the warmth and dignity of appropriate clothing. Your contribution, regardless of its size, can help us provide coats, shoes, and clothing essentials to those in need. With your support, we can protect children from the cold, boost their self-esteem, and enhance their overall well-being. Join us in this essential mission to dress children in need and empower them to face the world with confidence. Please donate today at [Donation Link] and be a part of our effort to make sure no child goes without the basic necessity of clothing. Together, we can wrap these young souls in comfort and care, giving them the opportunity to thrive and grow. Your generosity truly makes a difference, and we thank you for your support.",
+    "price": 129
+  }
+]
