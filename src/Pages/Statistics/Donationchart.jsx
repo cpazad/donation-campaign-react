@@ -1,15 +1,18 @@
 import React, { PureComponent } from "react";
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from "recharts";
+import { getStoredDonations } from "../../Utiltiy/localStorage";
 
 const Donationchart = () => {
+  const storedDonationsIds = getStoredDonations();
+  const noOfDonations = storedDonationsIds.length
+  console.log(noOfDonations)
   const data = [
-    { name: "Group A", value: 400 },
-    { name: "Group B", value: 300 },
-    // { name: "Group C", value: 300 },
-    // { name: "Group D", value: 200 },
+    { name: "Total Donation", value: 12 },
+    { name: "Your Donation", value: {noOfDonations} },
+ 
   ];
-
-  const COLORS = ["#0088FE", "#00C49F", "#FFBB28", "#FF8042"];
+  
+  const COLORS = ["#0088FE", "#00C49F"];
 
   const RADIAN = Math.PI / 180;
   const renderCustomizedLabel = ({

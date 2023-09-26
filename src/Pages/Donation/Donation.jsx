@@ -37,7 +37,7 @@ const Donation = () => {
       <div className={dataLength === donated.length ? "hidden" : ""}>
         <button
           onClick={() => setDataLength(donated.length)}
-          className="btn btn-primary"
+          className="btn btn-primary mb-10"
         >
           {" "}
           Show All Donations{" "}
