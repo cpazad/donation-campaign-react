@@ -6,14 +6,14 @@ const DonationDetails = () => {
   const { id } = useParams();
   const idInt = parseInt(id);
   const donation = donations.find((donation) => donation.id === idInt);
-  const {description, price, picture, title,text_button_bg} = donation;
+  const {description, price, picture, title, category_bg} = donation;
   return (
     <div>
          <div className="container">
         <img className="w-full rounded-md" src={picture} alt="Image" />
         <div className="content text-left">
           
-            <button style={{backgroundColor:text_button_bg}} className="btn text-white border-0 capitalize">Donate {price}$</button>
+            <button style={{backgroundColor:category_bg}} className="btn text-white border-0 capitalize">Donate {price}$</button>
         </div>
       </div>
       <div className="my-10 text-left p-5">

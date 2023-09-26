@@ -25,18 +25,16 @@ const Banner = () => {
                 </div>
               </div>
               <select className="select select-bordered join-item text-neutral">
-                <option disabled selected>
-                  Filter
+                <option selected>
+                  Education 
                 </option>
-                <option>Sci-fi</option>
-                <option>Drama</option>
-                <option>Action</option>
+                <option> Clothing </option>
+                <option> Health </option>
+                <option> Foood </option>
               </select>
               <div className="indicator">
-                {/* <span className="indicator-item badge badge-secondary">
-                  new
-                </span> */}
-                <button className="btn join-item bg-red-600 to-white">Search</button>
+                
+                <button className="btn join-item bg-red-600 text-white">Search</button>
               </div>
             </div>
            
