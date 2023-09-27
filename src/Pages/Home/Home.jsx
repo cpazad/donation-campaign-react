@@ -4,7 +4,7 @@ import Donates from "../../Components/Donate/Donates";
 const Home = () => {
   return (
     <div>
-      <div className="z-[-10] mt-[-100px]">
+      <div className="z-[-10]">
         <Banner></Banner>
         <Donates></Donates>
         {/* <Donates donations={donations}></Donates> */}

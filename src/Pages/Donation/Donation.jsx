@@ -30,7 +30,7 @@ const Donation = () => {
     <>
       <h2 className="text-2xl">No of Donations: {donated.length}</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2">
-        {donated.slice(0, dataLength).map((donation) => (
+        {displayDonated.slice(0, dataLength).map((donation) => (
           <Donated key={donation.id} donation={donation}></Donated>
         ))}
       </div>

@@ -8,7 +8,7 @@ const Donationchart = () => {
   console.log(noOfDonations)
   const data = [
     { name: "Total Donation", value: 12 },
-    { name: "Your Donation", value: {noOfDonations} },
+    { name: "Your Donation", value: noOfDonations },
  
   ];
   
